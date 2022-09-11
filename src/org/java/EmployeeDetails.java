@@ -38,4 +38,7 @@ public class EmployeeDetails {
 		System.out.println("First name siva is true "+name2);
 		
 		
+		boolean name4=false;
+		System.out.println("First name siva is true "+name4);
+		
 	}}
