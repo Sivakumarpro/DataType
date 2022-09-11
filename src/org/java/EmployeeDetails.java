@@ -37,6 +37,8 @@ public class EmployeeDetails {
 		boolean name3=false;
 		System.out.println("First name siva is true "+name2);
 		
+		char gender1='F';
+		System.out.println("Employee gender "+gender1);
 		
 		boolean name4=false;
 		System.out.println("First name siva is true "+name4);
